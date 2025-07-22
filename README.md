@@ -84,19 +84,19 @@ Sales peaked mid-year and are concentrated in a few high-performing products and
 ---
 
 ## Repository Contents
-- [Task1_Dashboard.pbix](https://github.com/<DataananalystAnjolaoluwa>/FUTURE_DS_01/blob/main/Task1_Dashboard.pbix) – The completed Power BI dashboard  
-- [All_Sales_Data.xlsx](https://github.com/<DataananalystAnjolaoluwa>/FUTURE_DS_01/blob/main/All_Sales_Data.xlsx) – Cleaned and combined dataset (2009–2011)  
-- [ProductCategory_MappingTable.xlsx](https://github.com/<DataananalystAnjolaoluwa>/FUTURE_DS_01/blob/main/ProductCategory_MappingTable.xlsx) – Mapping of products to categories  
-- [README.md](https://github.com/<DataananalystAnjolaoluwa>/FUTURE_DS_01/blob/main/README.md) – Project summary and insights  
-- [Dashboard Preview](https://github.com/<DataananalystAnjolaoluwa>/FUTURE_DS_01/blob/main/Preview/Task1_dashboard.png) – Screenshot for quick view  
+- [Task1_Dashboard.pbix](https://github.com/DataananalystAnjolaoluwa/FUTURE_DS_01/blob/main/Task%201%20FutureInterns_ecommerce%20sales%20project.pbix) – The completed Power BI dashboard  
+- [All_Sales_Data.xlsx](https://github.com/DataananalystAnjolaoluwa/FUTURE_DS_01/blob/main/All_Sales_Data.xlsx) – Cleaned and combined dataset (2009–2011)  
+- [ProductCategory_MappingTable.xlsx](https://github.com/DataananalystAnjolaoluwa/FUTURE_DS_01/blob/main/ProductCategory_MappingTable.xlsx) – Mapping of products to categories  
+- [README.md](https://github.com/DataananalystAnjolaoluwa/FUTURE_DS_01/blob/main/README.md) – Project summary and insights  
+- [Dashboard Preview](https://github.com/DataananalystAnjolaoluwa/FUTURE_DS_01/blob/main/Preview/Task1_dashboard.png) – Screenshot for quick view  
 
 ---
 
 ## How to View the Dashboard
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/<your-username>/FUTURE_DS_01.git
+   git clone https://github.com/DataananalystAnjolaoluwa/FUTURE_DS_01.git
 
-2. Open Task1_Dashboard.pbix in Power BI Desktop (free to download here).
+2. Open Task1_Dashboard.pbix in Power BI Desktop (free to download [here](https://powerbi.microsoft.com/desktop/)).
 
 3. Use the filters and visuals to explore sales trends, best-selling products, and customer insights.

@@ -50,7 +50,7 @@ Sales peaked mid-year and are concentrated in a few high-performing products and
 
 ---
 
-## KPI Snapshot
+## KPI Insights
 - **Total Sales:** £4.1M  
 - **Total Quantity Sold:** 2 million units  
 - **Returning Customer Revenue:** 79.2% of total revenue  

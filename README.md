@@ -2,7 +2,7 @@
 **Ecommerce Sales Analysis: **
 Interactive Power BI dashboard analyzing UK-based e-commerce sales (2009–2011). Includes data cleaning, trend analysis, and insights on best-selling products, peak sales periods, revenue by category, and customer behavior to support business decision-making.
 
-## View Dashboard
+## Dashboard Preview
 ![E-Commerce Dashboard](Preview/Task1_dashboard.png)
 
 # Overall Sales Insights (2009–2011)
